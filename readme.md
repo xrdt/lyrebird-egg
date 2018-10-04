@@ -11,9 +11,9 @@ this point is the DataLoader module in the utils dir.
 # Some Dependencies
 If version is not listed, assume latest version.
 
-python 3.x+ (this breaks the utils/__init__.py, but I used python 3 for all the code I wrote)
-pytorch
-numpy
+python 3.x+ (this breaks the utils/__init__.py, but I used python 3 for all the code I wrote)<br>
+pytorch<br>
+numpy<br>
 
 
 Submitted by Bianca Yang.
