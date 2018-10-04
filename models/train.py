@@ -1,7 +1,9 @@
 import torch
 from model import *
 import numpy as np
-from utils.dataLoader import DataLoader
+import sys
+sys.path.append('../')
+from utils.dataloader import DataLoader
 
 # Train the unconditional model
 def train(epochs=10, batch_size=50, lr=1e-3):
